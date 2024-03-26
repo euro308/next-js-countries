@@ -31,6 +31,7 @@ export default async function Home({params}) {
                 </p>
                 <p>
                     <Link href={"/"}><h2>Go Back</h2></Link>
+                    <span>NEW INFO FOR COMMIT</span>
                 </p>
             </div>
         </main>
